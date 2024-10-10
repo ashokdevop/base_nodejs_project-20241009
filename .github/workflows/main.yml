@@ -2,9 +2,9 @@ name: Node.js CI
 
 on:
   push:
-    branches: [ main ]
+    branches: [ ashokdevop-patch-1  ]
   pull_request:
-    branches: [ main ]
+    branches: [ ashokdevop-patch-1  ]
 
 jobs:
   build:
