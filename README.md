@@ -1,3 +1,6 @@
+# base_nodejs_project-20241009
+Sample basic Node.js project setup with some dev dependencies
+
 ## Writing README stuff
 [https://help.github.com/en/articles/basic-writing-and-formatting-syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 
